@@ -1,2 +1,3 @@
 # websites
-Primarily front-end webpages using HTML, CSS and JavaScript
+Primarily front-end webpages using HTML, CSS and JavaScript.
+Please refer to the project folder for a detailed description of each project.
